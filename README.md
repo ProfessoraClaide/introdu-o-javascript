@@ -1,1 +1,5 @@
-# introdu-o-javascript
+# introdução-javascript
+
+Equipe Claide
+
+Professora Claide
